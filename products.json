@@ -1,0 +1,55 @@
+[
+    {
+    "name":"iphone",
+    "price":154,
+    "features":true,
+    "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":1354,
+        "features":true,
+        "company":"apple"
+        },
+  
+        {
+            "name":"iphone9",
+            "price":154,
+            "features":true,
+            "company":"apple"
+            },
+  
+            {
+                "name":"iphone11",
+                "price":154,
+                "features":true,
+                "company":"apple"
+                },
+                {
+                    "name":"iphone13",
+                    "price":154,
+                    "features":true,
+                    "company":"apple"
+                    },
+                    {
+                        "name":"iphone15",
+                        "price":154,
+                        "features":true,
+                        "company":"apple"
+                        },
+                        {
+                            "name":"iphone16",
+                            "price":154,
+                            "features":true,
+                            "company":"apple"
+                            },
+                            {
+                                "name":"iphone18",
+                                "price":154,
+                                "features":true,
+                                "company":"apple"
+                                }
+                                                                                                      
+  
+
+]
